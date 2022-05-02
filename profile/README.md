@@ -43,7 +43,9 @@ Helm Charts / Infra
 
 </table>  
 
-## doFlo.com - Team Focused Automation
+## doFlo Helm Charts
+
+https://helmcharts.doflo.com/
 
 How to get started
 
