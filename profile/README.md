@@ -50,7 +50,7 @@ https://helmcharts.doflo.com/
 How to get started
 
 ```sh
-  npx doflo
+  helm repo add doflo https://helmcharts.doflo.com
 
 ```
 
